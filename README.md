@@ -6,12 +6,12 @@
 <a href="https://www.linkedin.com/in/%C5%9Fefik-efe/"><img src="https://img.shields.io/static/v1?style=plastic&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
 <!-- twitter -->
 <a href="https://twitter.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=plastic&logoColor=ffffff&label=&message=f4T1H21&logo=twitter&color=1DA1F2" alt="Twitter"></a>&nbsp;
-<!-- license -->
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/static/v1?style=plastic&label=license&message=GNU%20General%20Public%20License%20v3&color=yellowgreen" alt=license></a>&nbsp;
 <!-- PyPI -->
-<a href="https://pypi.org/project/libarbitrage/"><img src="https://img.shields.io/static/v1?style=plastic&label=PyPI&message=v0.0.1&color=orange" alt="version"></a>&nbsp;
+<a href="https://pypi.org/project/libarbitrage/"><img src="https://img.shields.io/static/v1?style=plastic&label=PyPI&message=v0.0.21&color=orange" alt="version"></a>&nbsp;
 <!-- status -->
 <a href="#"><img src="https://img.shields.io/static/v1?style=plastic&label=status&message=planning&color=success" alt="status"></a>&nbsp;
+<!-- license -->
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/static/v1?style=plastic&label=license&message=GNU%20General%20Public%20License%20v3&color=yellowgreen" alt=license></a>&nbsp;
 <!-- code size -->
 <a href="#"><img src="https://img.shields.io/github/languages/code-size/f4T1H21/Arbitrage-Bot-Code-Library?style=plastic&label=code%20size&color=blueviolet" alt="code size"></a>
 </p>

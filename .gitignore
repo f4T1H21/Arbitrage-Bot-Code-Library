@@ -4,7 +4,7 @@ main.py
 # Paket dosyaları
 build/
 dist/
-libarbitrage.egg-info
+libarbitrage.egg-info/
 # Önbellek dosyaları
 __pycache__/
 libarbitrage/__pycache__
