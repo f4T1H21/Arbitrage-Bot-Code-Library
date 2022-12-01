@@ -3,13 +3,13 @@
 
 <p align="center">
 <!-- linkedin -->
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/static/v1?style=plastic&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.linkedin.com/in/%C5%9Fefik-efe/"><img src="https://img.shields.io/static/v1?style=plastic&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
 <!-- twitter -->
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/static/v1?style=plastic&logoColor=ffffff&label=&message=f4T1H21&logo=twitter&color=1DA1F2" alt="Twitter"></a>&nbsp;
+<a href="https://twitter.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=plastic&logoColor=ffffff&label=&message=f4T1H21&logo=twitter&color=1DA1F2" alt="Twitter"></a>&nbsp;
 <!-- license -->
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/static/v1?style=plastic&label=license&message=GNU%20General%20Public%20License%20v3&color=yellowgreen" alt=license></a>&nbsp;
 <!-- PyPI -->
-<a href="https://pypi.org/project/libarbitrage"><img src="https://img.shields.io/static/v1?style=plastic&label=PyPI&message=v0.0.1&color=orange" alt="version"></a>&nbsp;
+<a href="https://pypi.org/project/libarbitrage/"><img src="https://img.shields.io/static/v1?style=plastic&label=PyPI&message=v0.0.1&color=orange" alt="version"></a>&nbsp;
 <!-- status -->
 <a href="#"><img src="https://img.shields.io/static/v1?style=plastic&label=status&message=planning&color=success" alt="status"></a>&nbsp;
 <!-- code size -->
@@ -36,7 +36,7 @@ It is the end user's responsibility to obey all applicable local, state and fede
 This is a Python library developed to calculate and analyze arbitrage opportunities between decentralized exchanges of Ethereum blockchain network. Meanwhile, the library makes it easy to process the data of arbitrage opportunities belong to different blocks in blockchain as long as the blocks are analyzed.
 
 ## Installation
-Library is available at [PYthon Package Index](https://pypi.org/project/libarbitrage).
+Library is available at [PYthon Package Index](https://pypi.org/project/libarbitrage/).
 ```console
 pip install libarbitrage
 ```
