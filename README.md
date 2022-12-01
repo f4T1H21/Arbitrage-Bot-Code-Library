@@ -98,6 +98,8 @@ Prints a whole block of arbitrage data in the form of a table.
 Because the program acts like a monitor, this mode is named "monitor" mode. It takes the `min_revenue` argument of interactively. Even if you specify a `min_revenue` value to the function, it will be overwritten by the interactively taken input.
 An example initialization on interactive mode can be watched below.<br>
 
+https://user-images.githubusercontent.com/83399767/205143445-285838d4-0177-47c2-a586-cc0a843ab56d.mp4
+
 Click [this YouTube link](https://youtu.be/AXpGRdGLOpY) if the video doesn't play properly.
 
 #### Non-interactive (developer) mode
