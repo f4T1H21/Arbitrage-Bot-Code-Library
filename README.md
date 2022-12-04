@@ -188,7 +188,7 @@ See pink colored analyzer threads on [flowchart algorithm](#algorithm) for more 
 
 
 ## Technical Details
-LibArbitrage adpots an efficient multithreaded aproach for calculating arbitrage opportunities. There're three main __types__ of threads running simultaneously: "_handler_", "_price_fetcher_" and "_analyzer_".
+LibArbitrage adopts an efficient multithreaded aproach for calculating arbitrage opportunities. There're three main __types__ of threads running simultaneously: "_handler_", "_price_fetcher_" and "_analyzer_".
 
 All these three types of threads are generated at a same number, which is calculated depending on the number of specified tokens. Below formula indicates the total number of threads initialized at the beginning of the program. Some of them may terminate further, in case of any errors occured by decentralized exchange; for example liquidity errors.<br>
 
