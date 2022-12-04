@@ -25,6 +25,9 @@ See [LICENSE](LICENSE) for more information.
 ## Legal Disclaimer
 It is the end user's responsibility to obey all applicable local, state and federal laws. I assume no liability and am not responsible for any misuse or damage caused by this software, documentation and anything in this repository and the packages on the python package index.
 
+## This is not an investment advice
+Neither the outputs of LibArbitrage nor any information in this repository constitutes professional and/or financial advice.
+
 ## Table of Content
 - [About the Project](#about-the-project)
 - [Installation](#installation)
