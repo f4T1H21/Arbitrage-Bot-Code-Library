@@ -36,7 +36,7 @@ Neither the outputs of LibArbitrage nor any information in this repository const
 - [Flowchart Algorithm](#algorithm)
 
 ## About the Project
-This is a Python library developed to calculate and analyze arbitrage opportunities between decentralized exchanges of Ethereum blockchain network. Meanwhile, the library makes it easy to process the data of arbitrage opportunities belong to different blocks in blockchain as long as the blocks are analyzed.
+This is a Python library developed to calculate and analyze arbitrage opportunities between decentralized exchanges of Ethereum blockchain network. Meanwhile, the library makes it easy to process the data of arbitrage opportunities that belong to different blocks in blockchain as long as the blocks are analyzed.
 
 ## Installation
 Library is available at [PYthon Package Index](https://pypi.org/project/libarbitrage/).
