@@ -1,4 +1,3 @@
-<!-- ﺏ -->
 # LibArbitrage
 
 <p align="center">
